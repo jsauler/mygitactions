@@ -6,5 +6,4 @@ def bye():
     print("Bye")
 
 
-
-print(hello())
+print("Done")
